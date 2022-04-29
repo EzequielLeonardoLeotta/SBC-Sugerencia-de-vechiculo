@@ -1,0 +1,2 @@
+(deftemplate MetodoDeCombustion
+	(field Tipo))

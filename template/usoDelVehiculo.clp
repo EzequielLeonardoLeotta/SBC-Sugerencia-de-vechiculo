@@ -1,0 +1,2 @@
+(deftemplate UsoDelVehiculo
+	(field Clasificacion))

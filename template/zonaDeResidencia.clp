@@ -1,0 +1,2 @@
+(deftemplate ZonaDeResidencia
+	(field Nombre))
