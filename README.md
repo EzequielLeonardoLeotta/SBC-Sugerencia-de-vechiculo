@@ -1,6 +1,6 @@
 # Sugerencia de Vehiculo
 
-_Es un sistema expero que sugiere un vehiculo en base a la zona de residencia, el uso del vehiculo y el metodo de combustion_
+_Es un sistema experto que sugiere un vehiculo en base a la zona de residencia, el uso del vehiculo y el metodo de combustion_
 
 ## Ejecutar en CLIPS IDE 
 
