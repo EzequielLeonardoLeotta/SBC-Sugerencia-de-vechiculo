@@ -45,3 +45,51 @@
     =>
     (printout t "El vehiculo sugerido es: Peugeot Partner Confort" crlf)
 )
+
+(defrule Peugeot_Partner_Patagonica_Nafta ""
+    (exists (Vehiculo (Marca "Peugeot") (Modelo "Partner Patagonica Nafta")))
+    =>
+    (printout t "El vehiculo sugerido es: Peugeot Partner Patagonica" crlf)
+)
+
+(defrule Peugeot_Partner_Patagonica_Diesel ""
+    (exists (Vehiculo (Marca "Peugeot") (Modelo "Partner Patagonica Diesel")))
+    =>
+    (printout t "El vehiculo sugerido es: Peugeot Partner Patagonica" crlf)
+)
+
+(defrule Peugeot_Expert ""
+    (exists (Vehiculo (Marca "Peugeot") (Modelo "Expert")))
+    =>
+    (printout t "El vehiculo sugerido es: Peugeot Expert" crlf)
+)
+
+(defrule Peugeot_3008_Nafta ""
+    (exists (Vehiculo (Marca "Peugeot") (Modelo "3008 Nafta")))
+    =>
+    (printout t "El vehiculo sugerido es: Peugeot 3008" crlf)
+)
+
+(defrule Peugeot_3008_Transporte ""
+    (exists (Vehiculo (Marca "Peugeot") (Modelo "3008 Transporte")))
+    =>
+    (printout t "El vehiculo sugerido es: Peugeot 3008" crlf)
+)
+
+(defrule Peugeot_Boxer ""
+    (exists (Vehiculo (Marca "Peugeot") (Modelo "Boxer")))
+    =>
+    (printout t "El vehiculo sugerido es: Peugeot Boxer" crlf)
+)
+
+(defrule Peugeot_Landtrek_Diesel ""
+    (exists (Vehiculo (Marca "Peugeot") (Modelo "Landtrek Diesel")))
+    =>
+    (printout t "El vehiculo sugerido es: Peugeot Landtrek" crlf)
+)
+
+(defrule Peugeot_Landtrek_Nafta ""
+    (exists (Vehiculo (Marca "Peugeot") (Modelo "Landtrek Nafta")))
+    =>
+    (printout t "El vehiculo sugerido es: Peugeot Landtrek" crlf)
+)
